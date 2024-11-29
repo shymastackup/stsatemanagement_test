@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'counter.dart'; // Make sure this file exists and has Counter class.
-
+import 'counter.dart'; 
 void main() {
   runApp(
     ChangeNotifierProvider(
